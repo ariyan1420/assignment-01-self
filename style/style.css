@@ -349,3 +349,36 @@ body {
     margin-bottom: 24px;
   }
 }
+/* footer style */
+.footer {
+  padding-top: 130px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #777;
+}
+
+.footer-content h1 {
+  font-weight: 900;
+  font-size: 48px;
+  color: #5050fc;
+  margin: 0 0 10px;
+}
+
+.footer-content p {
+  max-width: 500px;
+  margin: 0 auto 20px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.footer-nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #777;
+  font-size: 14px;
+}
+
+.footer-nav a:hover {
+  text-decoration: underline;
+  color: #5050fc;
+}
